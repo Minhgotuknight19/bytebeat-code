@@ -1,0 +1,1 @@
+(t*sqrt^tan(t^t>>8|t>>9)) //22khz
